@@ -244,7 +244,7 @@ SPRAYING WATER
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/Diagram.png)
 
 ---
 
@@ -252,7 +252,7 @@ SPRAYING WATER
 
 | Front View | Side View | Circuit Diagram |
 |---|---|---|
-| ![Robot Front](images/robot-front.jpg) | ![Robot Side](images/robot-side.jpg) | ![Circuit Diagram](images/circuit-diagram.png) |
+| ![Robot Front](images/Real_Picture.png) | ![Robot Side](images/robot-side.jpg) | ![Circuit Diagram](images/circuit-diagram.png) |
 
 ---
 
